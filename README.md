@@ -18,3 +18,5 @@ You can then use the program by executing the following in the command terminal:
 python pdf.py
 ```
 Keep in mind that you have to be in the same directory for the previous command to work.
+
+You can also use the program by downloading the latest release and running it.
